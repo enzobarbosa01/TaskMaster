@@ -1,0 +1,49 @@
+## Ignorar pastas de build e cache do Visual Studio / .NET
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio cache/options
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build artifacts
+*.dll
+*.exe
+*.pdb
+
+# NuGet
+*.nuget.props
+*.nuget.targets
+packages/
+*.nupkg
+
+# Banco de dados local SQLite (gerado em tempo de execução)
+*.db
+*.db-shm
+*.db-wal
+
+# Arquivos de usuário/IDE
+*.DotSettings.user
+.idea/
+*.swp
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
