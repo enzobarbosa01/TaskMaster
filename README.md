@@ -86,10 +86,6 @@ O banco de dados SQLite é criado automaticamente em `%AppData%\TaskMaster\taskm
 - **Testes funcionais**: 13 casos de teste documentados, cobrindo os 13 requisitos funcionais identificados — todos aprovados
 - **Avaliação de usabilidade**: questionário SUS (System Usability Scale) aplicado a 5 participantes, com score médio de **83,5 pontos**, classificado como "Bom / Excelente" segundo Bangor, Kortum e Miller (2008)
 
-## Capturas de tela
-
-> Adicione aqui os screenshots do sistema (tela de Tarefas, Dashboard, Conquistas)
-
 ## Trabalhos futuros
 
 - [ ] Exportação de relatórios em PDF
